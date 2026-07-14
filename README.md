@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.svg" width="600" height="200" alt="DevNest Logo" />
+<img src="./DevNest.svg" width="600" height="300" alt="DevNest Logo" />
 
 ### Plataforma Web Colaborativa para Equipos de Desarrollo de Software
 
